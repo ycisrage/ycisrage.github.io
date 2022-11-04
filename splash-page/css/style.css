@@ -1,0 +1,27 @@
+.media-link{
+    padding: 3%;
+    text-align: right; 
+}
+.media-link img{
+    width: 6%;
+    margin: 0.5%;
+}
+h1{
+   margin-bottom: 0; 
+   font-family: var(--secondary-font);
+   color:pink;
+   font-weight: bold;
+   font-size: 106px;
+}
+
+h1 span{
+    color: palevioletred
+}
+p{
+    color:palevioletred;
+    font-size: 48px;
+
+}
+header{
+    text-align: center;
+}
