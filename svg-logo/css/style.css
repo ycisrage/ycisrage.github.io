@@ -1,0 +1,15 @@
+header{
+    align-content: center;
+    background-color:pink
+}
+@media (min-width: 1200px) {
+    header{
+        border: 5px solid ;
+    }
+
+
+    img{
+        display: none;
+        
+    }
+}
