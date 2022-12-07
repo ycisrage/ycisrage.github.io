@@ -1,0 +1,282 @@
+header{
+    display: grid;
+    grid-template-areas: 'icons shopping-cart'
+    'svg-logo svg-logo'
+    'sub-heading sub-heading'
+}
+.icons {
+    grid-area: icons;
+    padding: 0% 1%;
+}
+.shopping-cart {
+    grid-area: shopping-cart;
+    text-align: right;
+}
+.svg-logo {
+    grid-area: svg-logo;
+}
+.sub-heading {
+    grid-area: sub-heading;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+.icons img{
+    max-width: 30px;
+}
+.shopping-cart img {
+    max-width: 40px;
+}
+section img {
+    width: 100%;
+}
+.svg-logo{
+    text-align: center;
+}
+.svg-logo img {
+max-width:400px ;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0;
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    .gallery {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 600px) {
+    .gallery {
+        grid-template-columns: 1fr;
+    }
+}
+
+.textshow {
+    opacity: 0;
+    transition: .75s ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EEE;
+}
+.trees-1{
+    position: relative;
+}
+.text-popup {
+    display: flex;
+    height: auto;
+    justify-content: center;
+     align-items: center; 
+    position: relative;
+    overflow: auto;
+    font-family: 'Roboto', sans-serif;
+}
+.trees-1:hover .textshow,
+.trees-1:active .textshow {
+  opacity:.8;
+transition:.75s ease; }
+.text-popup a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.trees-1 figure {
+    margin: 0;
+}
+nav a{
+    display:inline-block;
+    padding: 1% 2%;
+    color: black;
+    text-decoration:none;
+    font-size: 15px;
+    margin-top: 5rem;
+    margin-bottom: 0;
+}
+nav {
+    text-align: center;
+
+}
+.copyright {
+    text-align: center;
+    font-size:  10px;
+    margin-top: 5rem;
+    margin-bottom: 0;
+}
+.address {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 0;
+}
+
+/* splash page */
+
+.media-link{
+    padding: 3%;
+    text-align: right; 
+}
+.media-link img{
+    width: 6%;
+    margin: 0.5%;
+}
+h1{
+   margin-bottom: 0; 
+   font-family: var(--secondary-font);
+   color:pink;
+   font-weight: bold;
+   font-size: 106px;
+}
+
+h1 span{
+    color: palevioletred
+}
+p{
+    color:palevioletred;
+    font-size: 2rem;
+
+}
+.heading-main {
+    text-align: center;
+}
+
+.home-link {
+    text-decoration: none;
+}
+
+/*search and form*/
+
+.head-bar{
+    grid-template-columns: 2fr 4fr 2fr;   
+    display: grid;
+    align-items: center;
+    padding: 0 1%;
+}
+.icons {
+    grid-area: auto;
+}
+.icons a {
+    display: inline-block;
+    padding: 2%;  
+}
+.search {
+    grid-area: auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+    border-color: #333;
+    display: flex;
+    padding: 0.125rem;
+}
+.search-icon {
+    width: 10px;
+  
+}
+.shopping-cart {
+    font-size: 1rem;
+}
+.icons img {
+    width: 20px;
+}
+.cart img {
+    width: 20px;
+}
+
+body.main-body {
+    margin: 0px 50px 0px 50px;
+}
+
+body.main-body-two {
+    margin: 0px 100px 0px 100px;
+}
+
+.search-bar {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    width: 100%; 
+}
+.cart {
+    grid-area: auto; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 1rem;
+}
+.svg-logo {
+    width: 500px;
+    margin:auto;
+}
+
+@media screen and (min-width: 200px) and (max-width: 600px) {
+    .svg-logo {
+        width: 250px;
+        margin: auto;
+    }
+}
+
+.page-sub-header {
+    text-align: center;
+}
+.main-form {
+    display: grid;
+    margin-bottom:20px;
+    grid-gap: 1%;
+    grid-template-areas:
+    'first-name last-name'
+    'email email'
+    'comments comments'
+    'privacy privacy'
+    'submit submti';
+}
+.footer-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+.copyright, .address {
+    display: flex;
+    justify-content: center;
+}
+main {
+    margin: auto;
+}
+.main-form input, .main-form textarea {
+    width: 100%;
+}
+.main-form input[type=checkbox] {
+    width: fit-content;
+}
+.main-form input[type=submit], .main-form input[type=reset] {
+    width: 40%;
+}
+.main-form textarea {
+    height: 4rem;
+}
+fieldset {
+    border: none;
+}
+.first-name {
+    grid-area: first-name;
+}
+.last-name {
+    grid-area: last-name;
+}
+.email {
+    grid-area: email;
+}
+.comments {
+    grid-area: comments;
+}
+.privacy {
+    grid-area: privacy;
+}
+.submit-reset {
+    grid-area: submit
+}

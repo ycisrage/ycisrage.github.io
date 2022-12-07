@@ -1,0 +1,35 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg8" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="drawing.svg" viewBox="34.06 98.94 165.36 100.08">
+  <defs id="defs2">
+    <linearGradient inkscape:collect="always" id="linearGradient925">
+      <stop style="stop-color: rgb(255, 127, 42); stop-opacity: 1; --darkreader-inline-stopcolor:#ce7b45;" offset="0" id="stop921" data-darkreader-inline-stopcolor=""/>
+      <stop style="stop-color: rgb(200, 183, 183); stop-opacity: 1; --darkreader-inline-stopcolor:#afaba4;" offset="1" id="stop923" data-darkreader-inline-stopcolor=""/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient927" x1="-221" y1="551.94727" x2="59.357422" y2="551.94727" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.26458297,0,0,0.26458297,-8.6885767e-5,1.430645e-4)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient936" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.26458296,0,0,0.26458296,102.58985,2.0117106)" x1="-221" y1="551.94727" x2="59.357422" y2="551.94727"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient956" x1="-68.527084" y1="156.10416" x2="10.847917" y2="156.10416" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient98" gradientUnits="userSpaceOnUse" x1="-68.527084" y1="156.10416" x2="10.847917" y2="156.10416"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient100" gradientUnits="userSpaceOnUse" x1="-68.527084" y1="156.10416" x2="10.847917" y2="156.10416"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient925" id="linearGradient223" gradientUnits="userSpaceOnUse" x1="-68.527084" y1="156.10416" x2="10.847917" y2="156.10416"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.65765465" inkscape:cx="485.24236" inkscape:cy="634.63146" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" showborder="false" inkscape:snap-intersection-paths="false" inkscape:object-paths="false" inkscape:snap-smooth-nodes="false" inkscape:window-width="1252" inkscape:window-height="958" inkscape:window-x="1713" inkscape:window-y="89" inkscape:window-maximized="0" inkscape:object-nodes="false" inkscape:snap-nodes="false"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g id="g940" style="fill:url(#linearGradient956);fill-opacity:1" transform="translate(102.58994,2.0115675)">
+      <path id="path851" style="opacity:0.68;fill:url(#linearGradient223);fill-opacity:1;stroke-width:1.07013" d="M -109,440 A 150,150 0 0 0 -259,590 150,150 0 0 0 -109,740 150,150 0 0 0 41,590 150,150 0 0 0 -109,440 Z m 0,76 a 75,75 0 0 1 75,75 75,75 0 0 1 -75,75 75,75 0 0 1 -75,-75 75,75 0 0 1 75,-75 z" transform="scale(0.26458333)"/>
+    </g>
+    <path id="circle859" style="opacity:0.67;fill:url(#linearGradient936);fill-opacity:1;stroke-width:0.211413" d="M 112.63584,98.938982 C 101.69707,101.48444 93.594103,111.2567 93.594103,122.9923 v 35.38802 a 19.843723,19.843723 0 0 1 -19.843746,19.84375 19.843723,19.843723 0 0 1 -19.84375,-19.84375 19.843723,19.843723 0 0 1 19.68097,-19.84324 29.633283,29.633283 0 0 0 -29.470553,29.63282 29.633283,29.633283 0 0 0 28.906763,29.62403 l -5.18e-4,0.003 a 39.687447,39.687447 0 0 0 0.545187,0.006 29.633283,29.633283 0 0 0 0.01912,0 39.687447,39.687447 0 0 0 0.16278,5.1e-4 39.687447,39.687447 0 0 0 0.235643,-0.001 39.687447,39.687447 0 0 0 39.344371,-36.76675 39.687447,39.687447 0 0 0 0.006,-0.0811 z m 0.69453,62.096468 0.0692,0.006 -0.009,-0.0114 c -0.0148,8.7e-4 -0.0605,0.005 -0.0605,0.005 z"/>
+    <circle style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.264583; --darkreader-inline-fill:#181a1b;" id="path80" sodipodi:type="arc" sodipodi:cx="162.55888" sodipodi:cy="159.60077" sodipodi:rx="22.670088" sodipodi:ry="22.294044" sodipodi:start="0" sodipodi:end="4.9152486" sodipodi:arc-type="slice" d="m 185.22897,159.60077 a 22.670088,22.294044 0 0 1 -15.06751,21.00302 22.670088,22.294044 0 0 1 -25.17351,-6.916 22.670088,22.294044 0 0 1 -1.81671,-25.64168 22.670088,22.294044 0 0 1 23.95501,-10.28223 l -4.56737,21.83689 z" data-darkreader-inline-fill=""/>
+    <g id="g92" style="fill:url(#linearGradient100);fill-opacity:1" transform="translate(188.57212,3.2320251)">
+      <path id="path90" style="opacity:0.68;fill:url(#linearGradient98);fill-opacity:1;stroke-width:1.07013" d="M -109,440 A 150,150 0 0 0 -259,590 150,150 0 0 0 -109,740 150,150 0 0 0 41,590 150,150 0 0 0 -109,440 Z m 0,76 a 75,75 0 0 1 75,75 75,75 0 0 1 -75,75 75,75 0 0 1 -75,-75 75,75 0 0 1 75,-75 z" transform="scale(0.26458333)"/>
+    </g>
+    <circle style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.132291; --darkreader-inline-fill:#181a1b;" id="circle114" sodipodi:type="arc" sodipodi:cx="173.21143" sodipodi:cy="72.991348" sodipodi:rx="11.335045" sodipodi:ry="11.147022" sodipodi:start="0" sodipodi:end="4.9152486" sodipodi:arc-type="slice" d="m 184.54647,72.991348 a 11.335045,11.147022 0 0 1 -7.53376,10.501511 11.335045,11.147022 0 0 1 -12.58675,-3.458 11.335045,11.147022 0 0 1 -0.90836,-12.82084 11.335045,11.147022 0 0 1 11.97751,-5.141117 l -2.28368,10.918446 z" data-darkreader-inline-fill=""/>
+  </g>
+</svg>
